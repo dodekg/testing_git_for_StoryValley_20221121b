@@ -1,2 +1,3 @@
 Just trying to practice forks and pull req - LDG - 20221121 (content ms)
 I just noticed - to make a fork you first need to import repository ( you need to know the url path from other account) - changing this doc for practice 20221121
+That is incorrect (whats above) - you firstly set up repository and in the same accout you add colaborators, colaborator must accept and can do fork...
