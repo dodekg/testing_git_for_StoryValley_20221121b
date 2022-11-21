@@ -1,1 +1,2 @@
 Some dummy content (doing fork between dodekg and LDG33)
+I did fork on old account (from LDG33 to dodekg) and now I will ask for pull request to LDG33 with this changes here made
