@@ -1,1 +1,2 @@
 Just trying to practice forks and pull req - LDG - 20221121 (content ms)
+I just noticed - to make a fork you first need to import repository ( you need to know the url path from other account) - changing this doc for practice 20221121
